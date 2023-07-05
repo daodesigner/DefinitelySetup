@@ -1,6 +1,6 @@
 {
   "ceremonyName": "QFI Ceremony",
-  "description": "This is an example ceremony",
+  "description": "This is an example ceremony to test github actions",
   "startDate": "2023-07-01",
   "endDate": "2023-07-31",
   "timeoutThreshold": 3600,
